@@ -20,3 +20,42 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(to right, #FF589B 0%, #FF136F 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, rgba(255, 166, 0, 0.637) 0%, yellow 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, #4949e9b6 0%, blue 100%);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    background-color: #fceae8;
+    height: 400px;
+
+}
+#subscribe h6{
+    color: gray;
+}
+footer {
+    text-align: center;
+}
